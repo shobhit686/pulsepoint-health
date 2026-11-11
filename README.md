@@ -16,8 +16,3 @@ A role-based smart hospital management platform built with Python and Streamlit.
 - Patient feedback capture with sentiment categorization
 - Administrator appointment, directory, and feedback analytics
 - Custom PulsePoint Health branding and a simplified application toolbar
-
-## Technical notes
-This is an early-stage portfolio project. The current version uses fictional sample records and Streamlit session state; records are not persisted to a database. Sign-in is a role-based interface flow and is not backed by production authentication. The feedback sentiment feature uses a simple keyword baseline and should not be represented as a trained or clinically validated model. Appointment and billing workflows are not connected to hospital systems or payment services.
-
-The application is for software demonstration and learning, not for clinical use or handling real patient data.
