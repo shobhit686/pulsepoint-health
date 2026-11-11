@@ -15,4 +15,3 @@ A role-based smart hospital management platform built with Python and Streamlit.
 - Doctor patient-record view and consultation-note entry
 - Patient feedback capture with sentiment categorization
 - Administrator appointment, directory, and feedback analytics
-- Custom PulsePoint Health branding and a simplified application toolbar
